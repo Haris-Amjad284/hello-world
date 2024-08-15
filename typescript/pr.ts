@@ -1,7 +1,7 @@
 console.log("hello world");
 //variables
 //let , const , var
-let My_friend = "fiza";
+let _friend = "fza";
 console.log(My_friend);
 My_friend = "hafsa"
 console.log(My_friend);
